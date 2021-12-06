@@ -5,7 +5,8 @@ Web page creates a to-do list. Used to understand the concept of a Reducer, whic
 ![Captura de pantalla 2021-12-06 201702](https://user-images.githubusercontent.com/48660555/144938368-fd4e9e70-98f5-4099-a91a-133624e40de4.png)
 
 ## Video
-https://user-images.githubusercontent.com/48660555/144938349-44b39e28-30f5-49ff-a2c9-1188fdc4d029.mp4
+https://user-images.githubusercontent.com/48660555/144939439-4bb2920b-cb67-4bcb-ad07-404032d2e00c.mp4
+
 
 
 <!-- Tech -->

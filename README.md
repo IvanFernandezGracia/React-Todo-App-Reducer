@@ -1,2 +1,50 @@
-# React-Todo-App-Reducer
-Web application that creates a to-do list. Useful to learn about the concept of Reducers and their hooks.
+# React Todo App Reducer
+Web page to understand the concept of a Reducer, which is very important to be able to enter Redux or use the contextAPI easily.
+
+## Home Page
+![Captura de pantalla 2021-12-06 201702](https://user-images.githubusercontent.com/48660555/144938368-fd4e9e70-98f5-4099-a91a-133624e40de4.png)
+
+## Video
+https://user-images.githubusercontent.com/48660555/144938349-44b39e28-30f5-49ff-a2c9-1188fdc4d029.mp4
+
+
+<!-- Tech -->
+## Skills
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Skills</th>
+      <th align="center">Skills</th>      
+      <th align="center">Skills</th>
+    </tr>
+        <td>
+        <ul>
+          <li>Custom</li>                     
+          <li>Custom</li>                     
+          <li>Custom</li>                     
+        </ul>
+      </td>    
+        <td>
+        <ul>
+          <li>Custom</li>                     
+          <li>Custom</li>                     
+          <li>Custom</li>                     
+        </ul>
+      </td>
+         <td>
+        <ul>
+          <li>Custom</li>                     
+          <li>Custom</li>                     
+          <li>Custom</li>                     
+        </ul>
+      </td>
+  </tbody>
+</table>
+
+<!-- CONTACT -->
+## Contact
+Ivan Alejandro Fernandez Gracia  
+:email: ivan.fernandez.g@usach.cl  
+:telephone_receiver: +56-961214718  
+Mechanical Engineering  
+Universidad de Santiago de Chile
